@@ -8,4 +8,5 @@ DjangoConf Code of Conduct
 # Reference (참고자료)
 * https://2018.djangocon.eu/conduct/
 * https://2017.djangocon.us/coc/
+* https://github.com/djangocon/2018.djangocon.us/blob/master/coc.md
 * https://github.com/django-ja/DjangoConJP
