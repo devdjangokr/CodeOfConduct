@@ -1,7 +1,7 @@
-# DevDjango Korea 2018 행동 강령
+# Dev Django Korea 2018 행동 강령
 
 ## 행동 강령에 대해서
-* DevDjango Korea 2018(이하 본 행사)에 참석하는 모든 형태의 참가자는 행동 강령을 따라야 합니다. 여기서 모든 참가자라 함은 일반 참가자, 발표자, 후원사, 행사 운영진 그리고 자원봉사자 등 모두를 포함합니다.
+* Dev Django Korea 2018(이하 본 행사)에 참석하는 모든 형태의 참가자는 행동 강령을 따라야 합니다. 여기서 모든 참가자라 함은 일반 참가자, 발표자, 후원사, 행사 운영진 그리고 자원봉사자 등 모두를 포함합니다.
 * 이 행동 강령은 본 행사의 준비 과정, 진행 과정 그리고 행사 후에 이루어지는 참가자 간의 교류 활동까지 항상 적용됩니다.
 
 ## 행동 강령 
@@ -41,4 +41,4 @@
 * 이 외에도 사건과 관련하여 운영진이 알았으면 하는 내용
 
 ## License
-DjangoCon 2018 EU의 Code of Conduct와 DjangoCon 2018 US의 Code of Conduct를 참고하여, DevDjango Korea 2018 한국 운영진이 작성하였습니다.
+DjangoCon 2018 EU의 Code of Conduct와 DjangoCon 2018 US의 Code of Conduct를 참고하여, Dev Django Korea 2018 한국 운영진이 작성하였습니다.
